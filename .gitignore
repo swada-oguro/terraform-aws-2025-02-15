@@ -5,3 +5,9 @@ main/.terraform.lock.hcl
 .envrc
 main/.terraform/modules/modules.json
 main/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/darwin_arm64/LICENSE.txt
+remote-backend/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/darwin_arm64/LICENSE.txt
+remote-backend/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/darwin_arm64/terraform-provider-aws_v5.87.0_x5
+remote-backend/.terraform.lock.hcl
+remote-backend/README.md
+remote-backend/terraform.tfstate
+remote-backend/terraform.tfstate.backup
